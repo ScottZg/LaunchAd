@@ -678,6 +678,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LaunchAd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xiaoguizi.LaunchAd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -689,6 +690,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LaunchAd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xiaoguizi.LaunchAd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -762,6 +764,7 @@
 				5627073F1BFAE198008206C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		562707401BFAE198008206C0 /* Build configuration list for PBXNativeTarget "LaunchAdTests" */ = {
 			isa = XCConfigurationList;
@@ -770,6 +773,7 @@
 				562707421BFAE198008206C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		562707431BFAE198008206C0 /* Build configuration list for PBXNativeTarget "LaunchAdUITests" */ = {
 			isa = XCConfigurationList;
@@ -778,6 +782,7 @@
 				562707451BFAE198008206C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
